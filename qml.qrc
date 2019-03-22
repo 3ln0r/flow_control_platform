@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>main.qml</file>
+        <file>StartButton.qml</file>
+        <file>SelectExperimentButton.qml</file>
+        <file>ExperimentAndGraphButton.qml</file>
+        <file>FinalButton.qml</file>
+        <file>HelpButton.qml</file>
+        <file>PreferencesButton.qml</file>
+        <file>programBuilderPageEventHandlers.js</file>
+        <file>Experiments.qml</file>
+        <file>CustomSpinBox.qml</file>
+        <file>ExperimentLogFile.qml</file>
+        <file>CustomBorder.qml</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>roboto_light.ttf</file>
+        <file>roboto_regular.ttf</file>
+        <file>roboto_thin_italic.ttf</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>Preferences.png</file>
+        <file>up.png</file>
+        <file>down.png</file>
+        <file>circle1.png</file>
+        <file>circle2.png</file>
+    </qresource>
+</RCC>
